@@ -1,0 +1,12 @@
+ALGORITHM correction
+VAR
+    set1: ARRAY_OF INTEGER;
+    i , j : INTEGER:=0;
+    sum : INTEGER;
+BEGIN
+    set1:={3,1,7,9};
+    set1:={2,3,1,9,4};
+    WHILE (condition) DO
+        set_instructions
+    END_WHILE
+END
